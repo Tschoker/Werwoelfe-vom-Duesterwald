@@ -7,10 +7,14 @@ Werwoelfe vom Duesterwald (https://en.wikipedia.org/wiki/The_Werewolves_of_Mille
 The device is placed in a chassis with a LCD display and 3 buttons (either Back/OK/Next, -/OK/+, or whatever the screen currently needs as input choices.
 
 ## Schematics
-In progress.
+The LCD Pins SCL and SDA are connected to GPIO 20 & 4 of the Arduino. VCC and GND are beeing connected to the VIN and GND Pins.
+The GPIOs 9, 10, 11 of the Arduino are each defined as Input and have a pulldown resistor against ground and a push button against 3,3V supply of the Arduino board.
 
 ## Parts list
-in progress.
+* 1x Arduino Micro
+* 3x Push button
+* 1x 4x20 LCD (I2C)
+* 3x 1kOhm Resistors
 
 ## Pictures
 ![Prototype](/images/Prototype.jpeg)
