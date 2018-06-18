@@ -9,6 +9,9 @@ The device is placed in a chassis with a LCD display and 3 buttons (either Back/
 ## Schematics
 In progress.
 
+## Parts list
+in progress.
+
 ## Pictures
 ![Prototype](/images/Prototype.jpeg)
 ![Breadboard1](/images/20180610_141651.jpg)
