@@ -10,4 +10,4 @@ The device is placed in a chassis with a LCD display and 3 buttons (either Back/
 In progress.
 
 ## Pictures
-In progress.
+![Prototype](/images/Prototype.jpeg)
