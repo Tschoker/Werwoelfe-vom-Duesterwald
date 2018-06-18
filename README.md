@@ -11,3 +11,5 @@ In progress.
 
 ## Pictures
 ![Prototype](/images/Prototype.jpeg)
+![Breadboard1](/images/20180610_141651.jpg)
+![Breadboard2](/images/20180610_141658.jpg)
