@@ -14,7 +14,7 @@ The GPIOs 9, 10, 11 of the Arduino are each defined as Input and have a pulldown
 * 1x Arduino Micro
 * 3x Push button
 * 1x 4x20 LCD (I2C)
-* 3x 1kOhm Resistors
+* 3x 1kOhm Resistors 
 
 ## Pictures
 ![Prototype](/images/Prototype.jpeg)
